@@ -1,0 +1,21 @@
+body {
+	background: url(busan.jpeg);
+	font-family: Tahoma ;
+	font-size: 16pt ;
+}
+h1 {
+	color: yellow ;
+}
+	
+h2 {
+	color: blue ;
+}
+a {
+	text-decoration: none ;
+}
+a:hover {
+	text-decoration: underline ;
+}
+p:first-letter {
+	font-size: 24pt ;
+}
